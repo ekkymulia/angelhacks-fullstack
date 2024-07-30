@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Freestyle Team
+Submission for Hackjakarta Hackathon Hosted by Angel Hack
 
-## Getting Started
+Team Members:
+Ekky Mulia Lasardi
+Patrick Samuel Evans Simanjuntak
+Robert Benyamin
+Muhamad Achalendra Feroz
 
-First, run the development server:
+Grab Gourmand AI:
+**Revolutionizing Grab Food: Utilizing User Review Input to Extract User Preferences and Feedback for More Personalized AI Recommendations to Enhance User Experience**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tech Stack:
+- next.js
+- MongoDB
+- Pinecone
+- Langchain
+- Vercell
+- ChatGPT
+- Langsmith
 
-Open [https://angelhacks-fullstack.vercel.app/](https://angelhacks-fullstack.vercel.app/) with your browser to see the result.
+Concep Used:
+- Cloud Based Serverless Architecture
+- Multi AI Agent used to help preprocess and handle User Data
+- RAG Similarity search with Vector Database
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Flowchart:
+<img width="460" alt="Screenshot 2024-07-30 at 12 16 04" src="https://github.com/user-attachments/assets/0453a0ee-7073-47b0-9ac0-3009e4dc022e">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Class Diagram:
+<img width="384" alt="Screenshot 2024-07-30 at 12 16 39" src="https://github.com/user-attachments/assets/e3f61c8d-0c59-467e-a0a6-f2d831a4a7b7">
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
