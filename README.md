@@ -8,7 +8,7 @@ Submission for Hackjakarta Hackathon Hosted by Angel Hack
 - Muhamad Achalendra Feroz
 
 ## Grab Gourmand AI:
-**Revolutionizing Grab Food: Utilizing User Review Input to Extract User Preferences and Feedback for More Personalized AI Recommendations to Enhance User Experience**
+**Revolutionizing Grab Food: Utilizing Generative AI and User Review Input to Extract User Preferences and Feedback for More Personalized AI Recommendations to Enhance User Experience**
 
 ### Tech Stack:
 - Next.js
